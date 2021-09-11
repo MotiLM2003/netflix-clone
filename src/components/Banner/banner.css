@@ -2,7 +2,8 @@
   position: relative;
   color: #fff;
   height: 448px;
-  object-fit: contain;
+  background-size: cfitover;
+  background-position: center center;
 }
 
 .banner__coentents {
